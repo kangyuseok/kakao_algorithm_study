@@ -106,29 +106,16 @@ git commit -m "Hello World / 1분"
 <table>
     <tr style="text-align: center">
         <td rowspan="3">1주차</td>
-        <td>BOJ</td><td>17413</td><td>단어 뒤집기 2</td>
-        <td><a href="https://www.acmicpc.net/problem/17413">바로가기</a></td>
+        <td>BOJ</td><td>17413</td><td>캐슬 디펜스</td>
+        <td><a href="https://www.acmicpc.net/problem/17135">바로가기</a></td>
     </tr>
     <tr style="text-align: center">
-        <td>BOJ</td><td>1343</td><td>폴리오미노</td>
-        <td><a href="https://www.acmicpc.net/problem/1343">바로가기</a></td>
+        <td>BOJ</td><td>21314</td><td>민겸수</td>
+        <td><a href="https://www.acmicpc.net/problem/21314">바로가기</a></td>
     </tr>
     <tr style="text-align: center">
-        <td>BOJ</td><td>14916</td><td>거스름돈</td>
-        <td><a href="https://www.acmicpc.net/problem/14916">바로가기</a></td>
+        <td>BOJ</td><td>16918</td><td>봄버맨</td>
+        <td><a href="https://www.acmicpc.net/problem/16918">바로가기</a></td>
     </tr>
 
-<tr style="text-align: center">
-        <td rowspan="3">2주차</td>
-        <td>BOJ</td><td>5597</td><td>과제 안내신분..?</td>
-        <td><a href="https://www.acmicpc.net/problem/5597">바로가기</a></td>
-    </tr>
-    <tr style="text-align: center">
-        <td>BOJ</td><td>1913</td><td>달팽이</td>
-        <td><a href="https://www.acmicpc.net/problem/1913">바로가기</a></td>
-    </tr>
-    <tr style="text-align: center">
-        <td>BOJ</td><td>10828</td><td>스택</td>
-        <td><a href="https://www.acmicpc.net/problem/10828">바로가기</a></td>
-    </tr>
 </table>

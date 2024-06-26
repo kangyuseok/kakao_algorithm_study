@@ -5,7 +5,7 @@
     <tr>
         <td align="center">
 	    <a href="https://github.com/kangyuseok">
-	    	<img src="https://avatars.githubusercontent.com/u/160629574?v=4" width="100px;" alt=""/>
+	    	<img src="https://avatars.githubusercontent.com/u/111121447?s=96&v=4" width="100px;" alt=""/>
 	    	<br/>
 	    	<sub>
 	    	<b>강유석</b>
@@ -17,7 +17,7 @@
 	</td>
         <td align="center">
 	    <a href="https://github.com/ss0ming">
-	    	<img src="https://avatars.githubusercontent.com/u/111121447?v=4?s=100" width="100px;" alt=""/>
+	    	<img src="https://avatars.githubusercontent.com/u/104823900?v=4" width="100px;" alt=""/>
 	    	<br/>
 	    	<sub>
 	    	<b>김소민</b>
@@ -29,7 +29,7 @@
 	</td>
         <td align="center">
 	    <a href="https://github.com/yzooop">
-	    	<img src="https://avatars.githubusercontent.com/u/76983867?v=4" width="100px;" alt=""/>
+	    	<img src="https://avatars.githubusercontent.com/u/163278410?v=4" width="100px;" alt=""/>
 	    	<br/>
 	    	<sub>
 	    	<b>박연주</b>
@@ -44,7 +44,7 @@
 	    	<img src="https://avatars.githubusercontent.com/u/70528332?v=4" width="100px;" alt=""/>
 	    	<br/>
 	    	<sub>
-	    	<b>elle</b>
+	    	<b>박연수</b>
 	    	<br/>
 	    	<img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/100"/>
 	        </sub>
@@ -52,23 +52,11 @@
 	    <br />
 	</td>
 	<td align="center">
-	    <a href="https://github.com/TakYeji">
-	    	<img src="https://avatars.githubusercontent.com/u/167488513?v=4" width="100px;" alt=""/>
-	    	<br/>
-	    	<sub>
-	    	<b>lena</b>
-	    	<br/>
-	    	<img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/100"/>
-	        </sub>
-	    </a>
-	    <br />
-	</td>
-	    <td align="center">
 	    <a href="https://github.com/umuno">
 	    	<img src="https://avatars.githubusercontent.com/u/48487427?v=4" width="100px;" alt=""/>
 	    	<br/>
 	    	<sub>
-	    	<b>derik</b>
+	    	<b>유문호</b>
 	    	<br/>
 	    	<img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/100"/>
 	        </sub>
@@ -105,13 +93,7 @@ git commit -m "Hello World / 1분"
 ```
 
 
-# 4️⃣ PR 규칙
-* PR 제목: 이름 / 날짜 / 해결한 문제수
-* `김땡땡 / 7월 12일 / 3문제`
-* comment는 자유이지만, 해결 못한 문제가 있다면 어디서 막혔는지 작성할 것! 그래야 코드리뷰할때 같이 해결할 수 있습니다.
-
-
-# 5️⃣ (option) 코드리뷰 규칙
+# 4️⃣ (option) 코드리뷰 규칙
 * PR에서 코드리뷰를 한다.
 * 의견제시
 	* 잘했다고 생각하는 부분
@@ -119,8 +101,7 @@ git commit -m "Hello World / 1분"
 	* 왜 이렇게 풀었는지 궁금한 부분
 	* 또 다른 풀이 방식 제시
 * 코드의 일부에다가 코드리뷰를 해도 되고 전체 코드 밑 또는 PR 하나 밑에다 코멘트 작성으로 리뷰를 해도 됩니다.
-# ✅ CS 스터디 링크
-<a href="https://goorm.notion.site/1-c14c9512cacf42b5bc033a30a044bb69">노션 바로가기</a>
+
 # ✅ 문제
 <table>
     <tr style="text-align: center">

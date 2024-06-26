@@ -1,15 +1,14 @@
 # Kakao 알고리즘 스터디
-* kako 1팀 알고리즘 스터디입니다.
 
 # 0️⃣ 스터디 멤버
 <table>
     <tr>
         <td align="center">
-	    <a href="https://github.com/ji006">
+	    <a href="https://github.com/kangyuseok">
 	    	<img src="https://avatars.githubusercontent.com/u/160629574?v=4" width="100px;" alt=""/>
 	    	<br/>
 	    	<sub>
-	    	<b>wendy</b>
+	    	<b>강유석</b>
 	    	<br/>
 	    	<img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/100"/>
 	        </sub>
@@ -17,11 +16,11 @@
 	    <br />
 	</td>
         <td align="center">
-	    <a href="https://github.com/kangyuseok">
+	    <a href="https://github.com/ss0ming">
 	    	<img src="https://avatars.githubusercontent.com/u/111121447?v=4?s=100" width="100px;" alt=""/>
 	    	<br/>
 	    	<sub>
-	    	<b>tony</b>
+	    	<b>김소민</b>
 	    	<br/>
 	    	<img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/100"/>
 	        </sub>
@@ -29,11 +28,11 @@
 	    <br />
 	</td>
         <td align="center">
-	    <a href="https://github.com/whdmldus1116">
+	    <a href="https://github.com/yzooop">
 	    	<img src="https://avatars.githubusercontent.com/u/76983867?v=4" width="100px;" alt=""/>
 	    	<br/>
 	    	<sub>
-	    	<b>lily</b>
+	    	<b>박연주</b>
 	    	<br/>
 	    	<img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/100"/>
 	        </sub>

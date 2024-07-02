@@ -52,11 +52,11 @@
 	    <br />
 	</td>
 	<td align="center">
-	    <a href="https://github.com/umuno">
-	    	<img src="https://avatars.githubusercontent.com/u/48487427?v=4" width="100px;" alt=""/>
+	    <a href="https://github.com/dev-Rhea">
+	    	<img src="https://avatars.githubusercontent.com/u/155525939?v=4" width="100px;" alt=""/>
 	    	<br/>
 	    	<sub>
-	    	<b>유문호</b>
+	    	<b>추연수</b>
 	    	<br/>
 	    	<img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/100"/>
 	        </sub>

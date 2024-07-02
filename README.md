@@ -118,4 +118,18 @@ git commit -m "Hello World / 1분"
         <td><a href="https://www.acmicpc.net/problem/16918">바로가기</a></td>
     </tr>
 
+   <tr style="text-align: center">
+        <td rowspan="3">2주차</td>
+        <td>BOJ</td><td>2667</td><td>단지번호붙이기</td>
+        <td><a href="https://www.acmicpc.net/problem/2667">바로가기</a></td>
+    </tr>
+    <tr style="text-align: center">
+        <td>BOJ</td><td>16937</td><td>두 스티커</td>
+        <td><a href="https://www.acmicpc.net/problem/16937">바로가기</a></td>
+    </tr>
+    <tr style="text-align: center">
+        <td>BOJ</td><td>13023</td><td>ABCDE</td>
+        <td><a href="https://www.acmicpc.net/problem/13023">바로가기</a></td>
+    </tr>
+
 </table>

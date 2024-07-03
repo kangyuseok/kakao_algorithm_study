@@ -5,6 +5,7 @@
 # 5. 공격
 
 
+
 import sys
 
 def combination(arr, r):

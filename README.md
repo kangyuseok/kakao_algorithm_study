@@ -132,4 +132,18 @@ git commit -m "Hello World / 1분"
         <td><a href="https://www.acmicpc.net/problem/13023">바로가기</a></td>
     </tr>
 
+   <tr style="text-align: center">
+        <td rowspan="3">3주차</td>
+        <td>BOJ</td><td>2075</td><td>N번째 큰 수</td>
+        <td><a href="https://www.acmicpc.net/problem/2075">바로가기</a></td>
+    </tr>
+    <tr style="text-align: center">
+        <td>BOJ</td><td>1068</td><td>트리</td>
+        <td><a href="https://www.acmicpc.net/problem/1068">바로가기</a></td>
+    </tr>
+    <tr style="text-align: center">
+        <td>BOJ</td><td>2579</td><td>계단 오르기</td>
+        <td><a href="https://www.acmicpc.net/problem/2579">바로가기</a></td>
+    </tr>
+
 </table>
